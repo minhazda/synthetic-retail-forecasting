@@ -8,6 +8,8 @@ This repository contains the code for an end-to-end, privacy-preserving retail d
 
 Read the full preprint here: [Zenodo DOI: 10.5281/zenodo.19479285](https://doi.org/10.5281/zenodo.19479285)
 
+Live Application Demo: [https://retail-forecasting.streamlit.app](https://retail-forecasting-hvdzvesi4u9l6fs5tvdoyi.streamlit.app/)
+
 ##  Key Features
 * **Controllable Synthetic Generator:** Simulates Poisson base demand, daily/weekly seasonality, promotional uplifts, and exogenous traffic across 100 SKUs and 60 days.
 * **Leakage-Safe Feature Engineering:** Implements time-aware lags and rolling statistics.
