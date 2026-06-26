@@ -1,0 +1,17 @@
+# Core data stack
+numpy>=1.26
+pandas>=2.1
+
+# Modelling
+scikit-learn>=1.4
+lightgbm>=4.3
+xgboost>=2.0
+statsmodels>=0.14
+
+# Dashboard & visualisation
+streamlit>=1.33
+plotly>=5.20
+matplotlib>=3.8
+
+# Notebooks
+jupyter>=1.0
